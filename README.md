@@ -24,7 +24,6 @@ Neste repositório, você encontrará uma variedade de projetos que demonstram m
 Se você gostou do que viu aqui, ou está interessado em discutir uma colaboração, não hesite em entrar em contato comigo por meio de:
 
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?source=mailto&to=rafael.almeida.alves.2002@gmail.com&fs=1&tf=cm)
-ou
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaaalves)
 
 
